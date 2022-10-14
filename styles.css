@@ -1,0 +1,68 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.heading3 {
+	background-color: rgb(170, 169, 169);
+	text-align: center;
+}
+
+.list {
+	text-align: center;
+	background-color:rgb(163, 163, 163) ;
+}
+
+.color {
+	width: 120px;
+	height: 85px;
+	background-color: yellow;
+}
+
+.place {
+	width: 120px;
+	height: 85px;
+	background-color: yellow;
+}
+
+.ritual {
+	width: 120px;
+	height: 85px;
+	background-color: yellow;
+}
+
+
